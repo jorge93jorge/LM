@@ -1,0 +1,42 @@
+/*color de fondo del contenedor main*/
+main{
+   
+    background-color:#f2f2f2;
+}
+.row{
+    background-color:#f2f2f2;
+}
+/*altura para las celdas*/
+.blanco{
+        
+        
+        height: 60px;
+
+  }
+/*espacio entre filas*/
+    .segunda,.tercera .padding{
+   
+        padding-top: 15px;
+    }
+    /*tamaño para la alineacion horizontal*/
+.tamano{
+        margin-top: 15px;
+        height: 90px;
+    }
+    /*color de las celdas*/
+.cuadros{
+    background-color: #888ca3;
+} 
+/*tamaño del espaciado entre columnas*/
+.cuarta .tamano{
+    height: 120px;
+    
+}
+
+ h1,h2 {
+   
+     text-align: center;
+     
+ }
+ h2{
+     font-size: 12pt;}
